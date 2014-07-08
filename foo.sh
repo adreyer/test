@@ -1,1 +1,2 @@
 echo foo
+echo bar
